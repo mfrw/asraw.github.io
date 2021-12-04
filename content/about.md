@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-## About Me
+## whoami
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
